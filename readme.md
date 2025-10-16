@@ -5,7 +5,7 @@
 
 **Completa la siguiente información antes de comenzar:**
 
-- **Nombre completo**: --Isaac Andres Garrido Nazareno--
+- **Nombre completo**: __Isaac Andres Garrido Nazareno__
 - **Carrera**: _____________________________
 - **Fecha de entrega**: _____________________________
 
