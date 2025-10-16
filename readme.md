@@ -5,7 +5,7 @@
 
 **Completa la siguiente información antes de comenzar:**
 
-- **Nombre completo**: _____________________________
+- **Nombre completo**: __Isaac__ __Garrido__
 - **Carrera**: _____________________________
 - **Fecha de entrega**: _____________________________
 
